@@ -1,0 +1,16 @@
+class Employee{
+
+int empID;
+String empName;
+double empSalary;
+String empDesignation;
+String empAddress ;
+
+public  void display(){
+System.out.println("");
+
+
+}
+
+
+}

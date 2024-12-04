@@ -1,0 +1,20 @@
+import java.util.Scanner;
+class TotalCostPurchased{
+int qty;
+double totalCost;
+double price;
+
+   public static void discount(){
+                    double discount=(10/price)*100;
+
+}
+public static void main(String[]args){
+Scanner sc = new Scanner(System.in);
+System.out.println("Enter the Qty : ");
+qty=sc.nextInt();
+System.out.println("Enter the price : " )
+price=sc.nextDouble();
+totalCost=qty*price;
+}
+
+}
